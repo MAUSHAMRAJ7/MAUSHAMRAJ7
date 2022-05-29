@@ -1,0 +1,11 @@
+@media only screen and (min-width: 310px) and (max-width: 767px) {}
+/* for mobile */
+@media only screen and (min-width: 768px) and (max-width: 1023px) {}
+/* for ipad */
+@media only screen and (min-width: 1024px) and (max-width: 1250px) {}
+/* for ipad pro */
+@media only screen and (min-width: 1251px) and (max-width: 1500px) {
+.cta_container_oval1{
+    display:none;
+}
+}
